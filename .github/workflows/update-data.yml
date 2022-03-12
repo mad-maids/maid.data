@@ -63,7 +63,7 @@ jobs:
       - name: Prepare zip files
         run: |
           mkdir assets
-          zip -r assets/rooms.zip rooms
+          zip --junk-paths -r assets/rooms.zip rooms
           zip --junk-paths -r assets/timetable.zip timetable
       - name: Bump version and push tag
         id: tag_version
