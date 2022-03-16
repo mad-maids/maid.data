@@ -1,11 +1,12 @@
 {
-  "9.0": ["Blue room", "Harvard306", "IB201 CH", "New501 H"],
-  "10.0": ["Blue room", "IB201 CH", "New501 H"],
+  "9.0": ["Blue room", "Harvard306", "IB201 CH", "IB311", "New501 H"],
+  "10.0": ["Blue room", "IB201 CH", "IB311", "New501 H"],
   "11.0": [
     "ATB310 A",
     "Blue room",
     "IB101",
     "IB201 CH",
+    "IB311",
     "LRC13 Library Multimedia",
     "New206 H",
     "New501 H"
